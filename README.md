@@ -1,4 +1,3 @@
-# 21st-century-disasters
 # Катастрофы 21-го века
 ![image](https://github.com/user-attachments/assets/182d1719-3e67-4385-9d38-a9d1713b4147)
 
