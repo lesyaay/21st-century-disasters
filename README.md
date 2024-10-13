@@ -32,10 +32,9 @@
 
 ## Результаты работы
 В ходе исследования были составлены графики, наглядно демонстрирующие ключевые аспекты катастроф XXI века. 
-
-![image](https://github.com/user-attachments/assets/e113d074-a247-4cfa-b90d-cfb57ccac5b8)
-![image](https://github.com/user-attachments/assets/e464826e-5f68-46ad-b855-83f0c6febc6a)
-![image](https://github.com/user-attachments/assets/7eb4d6c6-1ac7-46ce-8c24-4684f085c4dc)
+![image](https://github.com/user-attachments/assets/0281319e-8775-43ba-8114-49a07c39cc24)
+![image](https://github.com/user-attachments/assets/c167cb65-f6c7-4942-b39b-5348c4df444d)
+![image](https://github.com/user-attachments/assets/122df025-15a3-4b3f-b191-3fcf031d19aa)
 
 ## Выводы
 В течение XXI века произошло множество трагических событий, которые оставили свой след в истории. Ниже представлены ключевые факты, которые стоит знать о катастрофах в этот период:
